@@ -1,4 +1,6 @@
-How to Run Project
+This is how you can run this project:
+Educational Purpose: Database and Management System
+
 1. Download and Unzip the file on your local system copy bbdms.
 2. Put bbdms folder inside root directory
 
